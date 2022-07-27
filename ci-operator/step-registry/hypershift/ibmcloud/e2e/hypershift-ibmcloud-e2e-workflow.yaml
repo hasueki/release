@@ -1,0 +1,13 @@
+workflow:
+  as: hypershift-ibmcloud-e2e
+  documentation: |-
+    TODO
+  steps:
+    pre:
+    - ref: ipi-install-rbac
+    - chain: hypershift-ibmcloud-cluster-claim
+    test:
+    - chain: hypershift-ibmcloud-install
+    - chain: hypershift-ibmcloud-create
+    post:
+    - chain: hypershift-ibmcloud-destroy

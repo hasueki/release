@@ -1,0 +1,11 @@
+{
+	"path": "hypershift/ibmcloud/install/hypershift-ibmcloud-install-chain.yaml",
+	"owners": {
+		"approvers": [
+			"hasueki"
+		],
+		"reviewers": [
+			"hasueki"
+		]
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"path": "hypershift/ibmcloud/e2e/hypershift-ibmcloud-e2e-workflow.yaml",
+	"owners": {
+		"approvers": [
+			"hasueki"
+		],
+		"reviewers": [
+			"hasueki"
+		]
+	}
+}

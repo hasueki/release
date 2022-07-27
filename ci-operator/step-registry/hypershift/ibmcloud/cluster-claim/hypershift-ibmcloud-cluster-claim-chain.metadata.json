@@ -1,0 +1,11 @@
+{
+	"path": "hypershift/ibmcloud/cluster-claim/hypershift-ibmcloud-cluster-claim-chain.yaml",
+	"owners": {
+		"approvers": [
+			"hasueki"
+		],
+		"reviewers": [
+			"hasueki"
+		]
+	}
+}

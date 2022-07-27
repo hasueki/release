@@ -1,0 +1,11 @@
+{
+	"path": "hypershift/ibmcloud/destroy/hypershift-ibmcloud-destroy-chain.yaml",
+	"owners": {
+		"approvers": [
+			"hasueki"
+		],
+		"reviewers": [
+			"hasueki"
+		]
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"path": "hypershift/ibmcloud/create/hypershift-ibmcloud-create-chain.yaml",
+	"owners": {
+		"approvers": [
+			"hasueki"
+		],
+		"reviewers": [
+			"hasueki"
+		]
+	}
+}
