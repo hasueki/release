@@ -9,5 +9,5 @@ workflow:
     test:
     - chain: hypershift-ibmcloud-install
     - chain: hypershift-ibmcloud-create
-    post:
-    - chain: hypershift-ibmcloud-destroy
+    # post:
+    # - chain: hypershift-ibmcloud-destroy
